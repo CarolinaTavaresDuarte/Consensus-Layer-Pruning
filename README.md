@@ -5,5 +5,7 @@ Implementation details of our paper "Layer Pruning with Consensus: A Triple-Win 
 
 ## Authors
    Leandro Giusti Mugnaini - leandromugnaini@gmail.com
+   
    Artur Jordao - arturjordao@usp.br
+   
    Carolina Tavares Duarte - carolinatavaresduarte@usp.br
