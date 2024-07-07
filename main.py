@@ -133,7 +133,6 @@ if __name__ == '__main__':
         'wasserstein_distance',
     ]
 
-    # 
     if debug:
         n_samples = 10
 
