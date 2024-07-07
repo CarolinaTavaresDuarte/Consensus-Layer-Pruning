@@ -117,11 +117,11 @@ if __name__ == '__main__':
     X_train -= X_train_mean
     X_test -= X_train_mean
 
-    # Metrics list consensus is composed of.
+    # Metrics list Consensus is composed of.
     # Disclaimer: Some shape metrics in Consensus may not work for a small number of samples.
-    # If you use debug=True, we recommend you to pass the following commented list
+    # If you use debug=True, we recommend you to pass the following list (with comments)
     # to the criterion (already tested and working with a small number of samples!).
-    # Otherwise, you can remove the '#' from the begining of each metric name and run the complete algorithm!
+    # Otherwise, you can remove the '#' from the beginning of each metric name and run the complete algorithm!
     metrics_list = [
         'cka',
         #'gaussian_stochastic_0',
